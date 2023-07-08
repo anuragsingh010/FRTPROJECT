@@ -7,6 +7,11 @@ PORTFOLIO
 This is my FRT Internship Project...
 
 Azure Link : https://myfrtproject.z29.web.core.windows.net/
+GitHub Repository Url :
+
+
+overview: Screenshot (86) (1)_merged (1).pdf
+
 
 PROJECT STATEMENT : The objective of portfolio management is to create and maintain a personalized plan for investing over the long term in order to meet an individual's key financial goals. This means selecting a mix of investments that matches the person's responsibilities, objectives, and appetite for risk.
 
