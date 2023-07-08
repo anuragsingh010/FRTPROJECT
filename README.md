@@ -1,5 +1,3 @@
-overview: Screenshot (86) (1)_merged (1).pdf
-
 
 # FRTPROJECT
 PORTFOLIO
@@ -7,7 +5,10 @@ PORTFOLIO
 This is my FRT Internship Project...
 
 Azure Link : https://myfrtproject.z29.web.core.windows.net/
-GitHub Repository Url :
+
+GitHub Repository Url :https://github.com/anuragsingh010/FRTPROJECT.git
+
+Url GitHub:https://anuragsingh010.github.io/FRTPROJECT/
 
 
 overview: Screenshot (86) (1)_merged (1).pdf
@@ -40,9 +41,9 @@ WEB TECHNOLOGIES  USED :
 STEPS FOLLOWED WHILE DEPLOYING: 
 1. Firstly  I built the complete project  using visual studio code, then tested it on the live server extension's.
 2. After that I have installed the git on my system.
-3. After that I uploaded and committed the project into my GitHub  repository.
+3. After that I uploaded and committed the project into my GitHub repository.
 4. The project was deployed using the GitHub pages and tested it.
 5. After that I logged in to my azure account and created azure storage account.
 6. After that I have created an container with blob storage and uploaded my project code into the container.
-7. After that I started my static web service and deployed my website on azure static web services.
+7. After that I started my static web service and deployed my (myfrtproject) on azure static web services.
 8. Finally my web deployed on the azure web services and ready to use...
