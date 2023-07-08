@@ -8,6 +8,8 @@ Azure Link : https://myfrtproject.z29.web.core.windows.net/
 
 GitHub Repository Url :https://github.com/anuragsingh010/FRTPROJECT.git
 
+Demo Video Url:https://youtu.be/P9qxj3hLaGg
+
 Url GitHub:https://anuragsingh010.github.io/FRTPROJECT/
 
 
